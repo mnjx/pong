@@ -1,6 +1,6 @@
 # Pong
 
-This python program is a simple clone of the poupular game Pong. It uses the tkinter library for the GUI. The game ends when one side has 10 points.
+This python program is a simple clone of the popular game Pong. It uses the tkinter library for the GUI. The game ends when one side has 10 points.
 
 # Controls
 
